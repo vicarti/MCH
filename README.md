@@ -18,9 +18,9 @@ Click here to view the live website: https://mchalger.netlify.app/
 
  ## 🛠️ Tech Stack
  
- -HTML5
- -CSS3
- -JavaScript
+ - HTML5
+ - CSS3
+ - JavaScript
 
  ## 🚧 Status
 
@@ -36,6 +36,6 @@ Click here to view the live website: https://mchalger.netlify.app/
  ## 💬 Contact
 
 If you want to collaborate, give feedback, or contribute:
-- 📧 Email: your.email@example.com
+- 📧 Email: i.bennouar@enscs.edu.dz
 - Linkedin: https://www.linkedin.com/in/yacine-bennouar-a40a8b242/
 
