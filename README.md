@@ -20,6 +20,7 @@ Click here to view the live website: https://mchalger.netlify.app/
  
  - HTML5
  - CSS3
+ - Bootstrap
  - JavaScript
 
  ## 🚧 Status
